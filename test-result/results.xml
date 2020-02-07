@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="slave-node" name="pytest" skipped="0" tests="1" time="0.021" timestamp="2020-02-07T10:32:23.779142"><testcase classname="tests.test_add2" file="/home/staxx/Virtualenv/test_/test_add2.py" line="3" name="test_jenkinsfun" time="0.001"></testcase></testsuite></testsuites>
